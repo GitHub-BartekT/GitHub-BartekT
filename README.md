@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bartlomiej+Tucholski!;+I'm open to work" />
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1313&random=false&width=435&lines=I'm+Bartlomiej+Tucholski!;I'm+open+to+work.;I'm+into+hexagon+architecure+%E2%AC%A1" alt="Typing SVG" /></a>
 </h1>
+
 <!--
 **GitHub-BartekT/GitHub-BartekT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
