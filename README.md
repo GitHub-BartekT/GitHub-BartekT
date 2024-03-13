@@ -7,9 +7,6 @@
 </h1>
 
 <h3 align="center">Junior Java Developer</h3>
-![IMG_20230624_063327_957](https://github.com/GitHub-BartekT/GitHub-BartekT/assets/119587290/f7c20181-2311-4f7d-a5e0-ba04dd7993ff)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
