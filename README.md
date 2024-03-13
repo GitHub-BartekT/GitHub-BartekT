@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1313&random=false&width=435&lines=I'm+open+to+work.;I'm+into+hexagon+architecure+%E2%AC%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1313&random=false&width=435&lines=I'm+open+to+work.;I'm+into+hexagonal+architecure+%E2%AC%A1" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Junior Java Developer</h3>
