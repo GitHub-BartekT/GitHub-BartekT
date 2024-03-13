@@ -12,18 +12,19 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bartlomiejtucholski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartlomiejtucholski/" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</p>
 
-<br>
+### Languages and Tools:
+| **Core skills**       | **Databases**           | **Testing**  |**Web / DevOps** |**Frontend**  |**Others**    |
+|-----------------------|-------------------------|--------------|-----------------|--------------|--------------|
+| **Java**              | **--Hibernate, JPA--**  | TDD          |REST-API          |JavaScript    |Agile         |
+| **--Spring Boot--**   | SQL                     | JUnit 5      |**--Docker--**          |HTML          |KanBan        |
+| Hibernate             | H2, HSQL                | Mockito      |JSON             |CSS(Pure.CSS) |Trello        |
+| Testing               | Flyway                  | AssertJ      |  HTTP    |              |IntelliJ      |
+| **--Hexagonal architecture--**| MongoDB             | WireMock     |
+| Git/GitHub            | Redis                   | MockMVC      |
+| Maven                 |                         | Postman      |
+
+
 <div align=center>
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-bartekt&show_icons=true&locale=en&layout=compact" alt="github-bartekt" />
   <img height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github-bartekt&" alt="github-bartekt" />
