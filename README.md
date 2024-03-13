@@ -16,7 +16,7 @@
 ### Languages and Tools:
 | **Core skills**       | **Databases**           | **Testing**  |**Web / DevOps** |**Frontend**  |**Clean Code**|**Others**    |
 |-----------------------|-------------------------|--------------|-----------------|--------------|--------------|--------------|
-| **--Java--**          | **--Hibernate, JPA--**  | TDD          |REST-API         |JavaScript| **--Hexagonal architecture--**|Agile         |
+| **--Java--**          | **--Hibernate, JPA--**  | TDD          |REST-API         |JavaScript|**--Hexagonal architecture--**|Agile         |
 | **--Spring Boot--**   | SQL                     | JUnit 5      |**--Docker--**   |HTML          |Design Patterns|Kanban       |
 | Mave                  | H2, HSQL                | Mockito      |JSON             |CSS(Pure.CSS) |SOLID          |Trello       |
 | Testing               | Flyway                  | AssertJ      |HTTP             |              |FIRST          |
