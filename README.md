@@ -16,12 +16,12 @@
 ### Languages and Tools:
 | **Core skills**       | **Databases**           | **Testing**  |**Web / DevOps** |**Frontend**  |**Others**    |
 |-----------------------|-------------------------|--------------|-----------------|--------------|--------------|
-| **Java**              | **--Hibernate, JPA--**  | TDD          |REST-API          |JavaScript    |Agile         |
-| **--Spring Boot--**   | SQL                     | JUnit 5      |**--Docker--**          |HTML          |KanBan        |
+| **Java**              | **--Hibernate, JPA--**  | TDD          |REST-API         |JavaScript    |Agile         |
+| **--Spring Boot--**   | SQL                     | JUnit 5      |**--Docker--**   |HTML          |KanBan        |
 | Hibernate             | H2, HSQL                | Mockito      |JSON             |CSS(Pure.CSS) |Trello        |
-| Testing               | Flyway                  | AssertJ      |  HTTP    |              |IntelliJ      |
-| **--Hexagonal architecture--**| MongoDB             | WireMock     |
-| Git/GitHub            | Redis                   | MockMVC      |
+| Testing               | Flyway                  | AssertJ      |HTTP             |              |IntelliJ      |
+| **--Hexagonal architecture--**| MongoDB         | WireMock     |                 |              |Swagger       |
+| Git/GitHub            | Redis                   | MockMVC      |                 |              |Scheduler     |
 | Maven                 |                         | Postman      |
 
 
