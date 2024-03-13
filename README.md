@@ -23,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 </p>
 
-[![My Skills]([(https://skillicons.dev)]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,bitbucket&perline=4)]
 <br>
 <div align=center>
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-bartekt&show_icons=true&locale=en&layout=compact" alt="github-bartekt" />
