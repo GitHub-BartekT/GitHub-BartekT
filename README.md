@@ -18,7 +18,7 @@
 |-----------------------|-------------------------|--------------|-----------------|--------------|--------------|--------------|
 | **--Java--**          | **--Hibernate, JPA--**  | TDD          |REST-API         |JavaScript|**--Hexagonal architecture--**|Agile         |
 | **--Spring Boot--**   | SQL                     | JUnit 5      |**--Docker--**   |HTML          |Design Patterns|Kanban       |
-| Mave                  | H2, HSQL                | Mockito      |JSON             |CSS(Pure.CSS) |SOLID          |Trello       |
+| Maven                 | H2, HSQL                | Mockito      |JSON             |CSS(Pure.CSS) |SOLID          |Trello       |
 | Testing               | Flyway                  | AssertJ      |HTTP             |              |FIRST          |
 | Git/GitHub            | MongoDB                 | WireMock     |                 |              |               |
 |                       | Redis                   | MockMVC      |                 |              |               |
