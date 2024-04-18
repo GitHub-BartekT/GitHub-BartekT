@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bartlomiejtucholski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartlomiejtucholski/" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+# Languages and Tools:
 | **Core skills**       | **Databases**           | **Testing**  |**Web / DevOps** |**Frontend**  |**Clean Code**|**Others**    |
 |-----------------------|-------------------------|--------------|-----------------|--------------|--------------|--------------|
 | **--Java--**          | **--Hibernate, JPA--**  | TDD          |REST-API         |JavaScript|**--Hexagonal architecture--**|Agile         |
@@ -24,7 +24,44 @@
 |                       | Redis                   | MockMVC      |                 |              |               |
 |                       |                         | Postman      |
 
+# My latests projects:
+In All my projects i use:
+- Java
+- Spring Boot
+- Maven
+- Git/Github
+- Tests Libraries
+  
+## JobOffers
+A project in which I focused on learning **Hexagonal Architecture** and **Integration Tests**.
+Tools and feature that i learned while creating the project: 
+- Hexagonal Architecture
+- Docker
+- Redis
+- Swagger
+- MongoDb
+- Security/JWT
 
+## Trip reimbursement
+A project in which I focused on learning **Unit Tests** and **Relational DB**.
+Tools and feature that i learned while creating the project: 
+- Unit Tests
+- Relational DB
+- SQL
+- Hibernate
+- Flyway
+- JUnit
+- Mockit
+
+## do read
+A project in which I focused on learning **Spring Boot** and **REST API**.
+Tools and feature that i learned while creating the project: 
+- Spring Boot
+- Rest API
+- JavaScript
+- CSS
+- Testing
+  
 <div align=center>
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-bartekt&show_icons=true&locale=en&layout=compact" alt="github-bartekt" />
   <img height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github-bartekt&" alt="github-bartekt" />
