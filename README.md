@@ -25,7 +25,7 @@
 |                       |                         | Postman      |
 
 ## Security
-This project implements advanced authorization and authentication using **Spring Boot 3**, with features like user registration, token management (access, refresh, and delete tokens), and email confirmation. The tech stack includes **Java, Spring Security, PostgreSQL, Docker, and Swagger**, with **integration testing** supported by **JUnit** and **Test Containers**. The API covers user actions like login, token refresh, and account deletion, all accessible via **Swagger UI**.
+This project implements advanced authorization and authentication using **Spring Boot 3**, with features like user registration, token management (access, refresh, and delete tokens), and email confirmation. The tech stack includes **Java, Spring Security, PostgreSQL, Docker, and Swagger**, with **integration testing** supported by **JUnit** and **Test Containers**. It follows a **ports and adapters architecture** and uses the **Factory design pattern**. The API covers user actions like login, token refresh, and account deletion, all accessible via Swagger UI.
 
 #### Live Demo
 📺[Watch the demo on YouTube](https://youtu.be/ogg2mYtxsVE)📺
