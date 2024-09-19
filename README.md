@@ -24,13 +24,11 @@
 |                       | Redis                   | MockMVC      |                 |              |               |
 |                       |                         | Postman      |
 
-# My latests projects:
-In All my projects i use:
-- Java
-- Spring Boot
-- Maven
-- Git/Github
-- Tests Libraries
+## Security
+This project implements advanced authorization and authentication using **Spring Boot 3**, with features like user registration, token management (access, refresh, and delete tokens), and email confirmation. The tech stack includes **Java, Spring Security, PostgreSQL, Docker, and Swagger**, with **integration testing** supported by **JUnit** and **Test Containers**. The API covers user actions like login, token refresh, and account deletion, all accessible via **Swagger UI**.
+
+#### Live Demo
+📺[Watch the demo on YouTube](https://youtu.be/ogg2mYtxsVE)📺
   
 ## JobOffers
 A project in which I focused on learning **Hexagonal Architecture** and **Integration Tests**.
