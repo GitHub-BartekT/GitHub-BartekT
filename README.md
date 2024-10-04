@@ -29,6 +29,18 @@ This project implements advanced authorization and authentication using **Spring
 
 #### Live Demo
 📺[Watch the demo on YouTube](https://youtu.be/ogg2mYtxsVE)📺
+
+## $${\color{red}{do-read}}$$
+The do-read app helps children learn to read by playing short, focused reading sessions before watching cartoons. This method is inspired by Glenn and Janet Doman’s book and aims to reduce the time parents spend preparing learning materials while keeping children engaged.
+
+Tools and feature that i learned while creating the project: 
+- Spring Boot
+- Rest API
+- JavaScript
+- MVC
+
+#### Live Demo
+📺[Watch the demo on YouTube](https://youtu.be/iQrmxAIZE3I)📺
   
 ## JobOffers
 A project in which I focused on learning **Hexagonal Architecture** and **Integration Tests**.
@@ -50,15 +62,6 @@ Tools and feature that i learned while creating the project:
 - Flyway
 - JUnit
 - Mockit
-
-## do read
-A project in which I focused on learning **Spring Boot** and **REST API**.
-Tools and feature that i learned while creating the project: 
-- Spring Boot
-- Rest API
-- JavaScript
-- CSS
-- Testing
   
 <div align=center>
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-bartekt&show_icons=true&locale=en&layout=compact" alt="github-bartekt" />
